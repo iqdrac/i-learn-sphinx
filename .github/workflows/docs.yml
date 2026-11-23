@@ -4,6 +4,8 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *" #default timezone UTC minute hour date month day
 
 permissions:
   contents: read
