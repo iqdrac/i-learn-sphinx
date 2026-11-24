@@ -16,3 +16,4 @@ who will receive you when you no more give
    :maxdepth: 1
 
    about
+   samples/index
