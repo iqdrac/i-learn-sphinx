@@ -3,7 +3,7 @@ Role Overview
 
 ** March 2021 - November 2023 **
 
-I owned the documentation for three product lines: `Constellation SDK<https://docs.pega.com/bundle/constellation-sdk/page/constellation-sdks/sdks/constellation-sdks.html>`__, `Traditional Starter Pack<https://docs.pega.com/bundle/traditional-starter-packs/page/traditional-starter-packs/docs/traditional-starter-packs.html>`__, and `Pega Process Extender for Salesforce Lightning<https://docs.pega.com/bundle/process-extender-salesforce-lightning/page/process-extender-salesforce-lightning/docs/pega-process-extender-salesforce-lightning.html>`__. I maintained the documentation in SharePoint sites first, and then migrated it to the Drupal CMS. Eventually, I migrated the entire doc set to DITA. 
+I owned the documentation for three product lines: `Constellation SDK <https://docs.pega.com/bundle/constellation-sdk/page/constellation-sdks/sdks/constellation-sdks.html>`__, `Traditional Starter Pack <https://docs.pega.com/bundle/traditional-starter-packs/page/traditional-starter-packs/docs/traditional-starter-packs.html>`__, and `Pega Process Extender for Salesforce Lightning <https://docs.pega.com/bundle/process-extender-salesforce-lightning/page/process-extender-salesforce-lightning/docs/pega-process-extender-salesforce-lightning.html>`__. I maintained the documentation in SharePoint sites first, and then migrated it to the Drupal CMS. Eventually, I migrated the entire doc set to DITA. 
 
 Skills used
 -----------
