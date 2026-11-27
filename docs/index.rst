@@ -1,6 +1,6 @@
 Sphinx Pages Lab
 ================
-Welcome... 
+Welcome...
 
 Who will cry when you die
 
@@ -10,7 +10,7 @@ who will receive you when you no more give
    ignore the above
 
 .. tip::
-   don't 
+   don't
 
 .. toctree::
    :maxdepth: 1

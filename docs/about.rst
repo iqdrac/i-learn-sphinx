@@ -6,4 +6,4 @@ I'm learning sphinx and github actions. this doesn't concern you, please leave a
 This is a `good link <https://www.sphinx-doc.org>`_ on purpose.
 
 .. warning::
-   this is just practice so anything I say here isn't true to the best of my knowledge 
+   this is just practice so anything I say here isn't true to the best of my knowledge
