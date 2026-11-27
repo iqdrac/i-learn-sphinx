@@ -24,7 +24,7 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: rstcheck -r docs
-      - run: sphinxlint docs
+      - run: python -m sphinxlint docs
       - run: sphinx-build -W -b html docs _build/html
   build:
     runs-on: ubuntu-latest
